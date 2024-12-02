@@ -1,0 +1,62 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: #ffffff;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #0070f3;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.menu ul li {
+  padding-right: 100px;
+}
+.contactButton {
+  background-color: #0070f3;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.carousel .carousel-item .card {
+  width: 80%; /* Adjust card size */
+  margin: 0 auto;
+}
+
+.carousel .carousel-item .card-image img {
+  border-radius: 8px;
+}
+
+.carousel .carousel-item {
+  display: flex;
+  justify-content: center;
+}
+
+.description .badge {
+  margin-right: 5px;
+  background-color: #2196f3 !important;
+  color: #fff !important;
+}
